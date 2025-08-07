@@ -1,0 +1,5 @@
+paste the codes
+in mqttbox but broker name correctl and name of and put mqtt tps
+run the code 
+
+ensure the phone ip adress and connect in same wifi 
